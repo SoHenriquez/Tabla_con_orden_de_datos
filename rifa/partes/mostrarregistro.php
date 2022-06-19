@@ -5,10 +5,7 @@
 
 <h1 class="">Números comprados</h1>
 <div>
-<div id="toolbar">
-  <button id="button" class="btn btn-secondary">resetSearch</button>
-</div>
-<table class="table " id="orden" data-toolbar="#toolbar">
+<table class="table " id="orden" >
   <thead class="table-dark">
     <tr>
       <th scope="col">#</th>
